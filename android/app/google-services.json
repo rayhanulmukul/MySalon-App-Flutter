@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945261419738",
+    "project_id": "barberbook-79470",
+    "storage_bucket": "barberbook-79470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945261419738:android:bfb93f45bb22a2880619e3",
+        "android_client_info": {
+          "package_name": "com.example.barberbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2lqcH5a_17ZfKgG5qY9VNReKnos4TZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
