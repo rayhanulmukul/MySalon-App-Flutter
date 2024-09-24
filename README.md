@@ -1,4 +1,4 @@
-# barberbook
+# My Salon App Flutter
 
 A new Flutter project.
 
